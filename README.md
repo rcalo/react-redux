@@ -1,6 +1,6 @@
 # Curso React and Redux
 
-![Platzi videos](./assest-readme/captura.PNG)
+![Platzi videos](./assest-readme/Captura.PNG)
 
 Este repositorio contiene todo el contenido del curso de react y redux
 
