@@ -1,0 +1,11 @@
+.categories{
+    background-color: white;
+    overflow: hidden; 
+}
+
+.cateriores-filter{
+    margin-left: 20px;
+    white-space: nowrap;
+    padding-bottom: 10px;
+    overflow-x: auto;
+}
